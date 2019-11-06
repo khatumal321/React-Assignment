@@ -1,0 +1,8 @@
+React
+
+for installing => $npm install -g create-react-app
+
+for project creation => $create-react-app reactsaylani 
+
+       ====>when we have to change enviroment variables<====
+create-react-app is not recognized as an internal or external command"
